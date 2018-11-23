@@ -1,0 +1,27 @@
+.dogs
+{
+  display: inline-grid;
+  grid-gap: 1.5vw;
+  grid-template-columns: 3;
+}
+
+.dog1, .dog2, .dog3
+{
+  display: block;
+  width:30vw;
+  border-radius: 5%;
+}
+.dog1
+{
+  grid-row: 1;
+}
+
+.dog2
+{
+  grid-row: 2;
+}
+
+.dog3
+{
+  grid-row: 3;
+}

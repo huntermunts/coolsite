@@ -1,0 +1,27 @@
+.cats
+{
+  display: inline-grid;
+  grid-gap: 1.5vw;
+  grid-template-columns: 3;
+}
+
+.cat1, .cat2, .cat3
+{
+  display: block;
+  width:30vw;
+  border-radius: 5%;
+}
+.cat1
+{
+  grid-row: 1;
+}
+
+.cat2
+{
+  grid-row: 2;
+}
+
+.cat3
+{
+  grid-row: 3;
+}

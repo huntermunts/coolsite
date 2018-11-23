@@ -1,0 +1,44 @@
+*
+{
+  font-family: "Roboto";
+  text-align: center;
+  font-weight: bold;
+}
+
+h1
+{
+  color: 6600ff;
+  font-weight: bolder;
+}
+
+p
+{
+  color: 0099ff;
+  font-style: oblique;
+}
+
+a
+{
+  color: ff9900;
+}
+
+.container {
+  height: 100vw;
+  position: relative;
+}
+
+.seperator
+{
+  margin-bottom: 2.5vw
+}
+
+.links
+{
+  display: inline-grid;
+  grid-gap: 2vw;
+}
+
+.link
+{
+  grid-row: 1;
+}
