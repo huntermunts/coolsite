@@ -1,6 +1,8 @@
-function changeBackground(color)
+function randElement(list)
 {
-   document.body.style.background = color;
+  return list[Math.floor(Math.random() * list.length)];
 }
 
-let color = 0
+var images = [""]
+
+//document.getElementById("randImage") =;
