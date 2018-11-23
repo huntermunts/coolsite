@@ -22,6 +22,11 @@ a
   color: ff9900;
 }
 
+img
+{
+  border-radius: 5%;
+}
+
 .container {
   height: 100vw;
   position: relative;
