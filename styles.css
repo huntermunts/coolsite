@@ -3,28 +3,34 @@
   font-family: "Roboto";
   text-align: center;
   font-weight: bold;
+  background-color: #ddddff
 }
 
 h1
 {
-  color: 6600ff;
+  color: #6600ff;
   font-weight: bolder;
 }
 
 p
 {
-  color: 0099ff;
+  color: #0099ff;
   font-style: oblique;
 }
 
 a
 {
-  color: ff9900;
+  color: #ff9900;
 }
 
 img
 {
   border-radius: 20px;
+}
+
+.randImage
+{
+  height: 30vw
 }
 
 .container {
